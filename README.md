@@ -1,7 +1,7 @@
 ## Code Structure
 
-- **activity_main.xml**: Defines the user interface layout, including input fields, buttons, and the result display.
-- **MainActivity.kt**: Contains the main logic for the app, including button click listeners, input validation, and arithmetic operations.
+- **user interface.xml**: Defines the user interface layout, including input fields, buttons, and the result display.
+- **kotlin code.kt**: Contains the main logic for the app, including button click listeners, input validation, and arithmetic operations.
 
 ## Error Handling
 
